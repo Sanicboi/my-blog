@@ -32,6 +32,7 @@ const userSchema = new mongoose.Schema({
 
 
 // model
+// idk if this works
 
 const User = mongoose.model('user', userSchema);
 
